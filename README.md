@@ -12,7 +12,7 @@ Features:
 - Tracks the tilting of the platform with the remaining 23 Pixels.  Varies according to pitch, yaw and yaw.
 
 Kickstarter is at:<BR>
-https://youtu.be/-znht_LWEV8
+http://bit.ly/SDBC24LAUNCH
 
 Video:<BR>
 https://youtu.be/-znht_LWEV8
