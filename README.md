@@ -11,6 +11,14 @@ Features:
 - Tracks Magnetic North with a Red LED
 - Tracks the tilting of the platform with the remaining 23 Pixels.  Varies according to pitch, yaw and yaw.
 
+In order to install the Arduino IDE with support for the ESP32 on the BC24, please follow the tutorial here:
+
+http://www.switchdoc.com/2018/07/tutorial-arduino-ide-esp32-bc24/
+
+Select the Adafruit ESP32 Feather under Tools
+
+Plug a USB Micro to USB connector into your computer (the one with the power supply will work) to establish the connection.
+
 Kickstarter is at:<BR>
 http://bit.ly/SDBC24LAUNCH
 
